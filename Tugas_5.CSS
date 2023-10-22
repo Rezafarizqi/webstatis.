@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.CWeZ6grRVqMuXV-rehgLiAHaHa?pid=ImgDet&w=600&h=600&rs=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: ;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 30px;
+}
+
+p {
+    text-align: justify;
+}
+
+.container {
+    width: 900px;
+    margin: 20px auto;
+    background-color: rgb(172, 212, 214);
+    border: 5px dotted rgb(2, 23, 13);
+}
+
+.Judul {
+    width: 900px;
+    margin: 20px auto;
+    background-color: rgb(172, 212, 214);
+    border: 5px dotted rgb(2, 23, 13);
+}
