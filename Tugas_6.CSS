@@ -1,0 +1,63 @@
+p {
+    text-align: justify;
+}
+body {
+    background-image: url(https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/03/08/Tanpa-judul1-1-3161065160.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4285F4;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#book-collection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.book {
+    width: 200px;
+    margin: 10px;
+}
+
+.book img {
+    max-width: 100%;
+}
+
+footer {
+    background-color: #4285F4;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
