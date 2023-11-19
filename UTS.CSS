@@ -13,7 +13,7 @@ html{
 
 body{
     font-family: 'Josefin Sans', sans-serif;
-    background-image: url(f/rm1.jpg);
+    background-image: url('f./rm1.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
